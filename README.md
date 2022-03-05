@@ -30,7 +30,7 @@ You will have to install some libraries. `Run:`
 
 **Running the program**
 
-Just type in your terminal `python3 youcomment{main file}.py --videoid=fc93EBfcb7w{example videoid}` and press enter.
+Run "SourceCode.py" python file and paste youTube link.
 
 
 
