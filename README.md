@@ -32,7 +32,7 @@ You will have to install some libraries. `Run:`
 
 Run "SourceCode.py" python file and paste youTube link.
 
-**Contributors: **
+**Contributors **
 1. Gaurav Baweja
 2. Arnav Agarwal
 3. Lovish Bansal
